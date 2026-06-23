@@ -1,4 +1,3 @@
-
 🎵 Song Preview Card
 A simple, responsive song preview component built as part of the INVO Academy learning path.
 The project focuses on clean HTML structure and SCSS styling.
